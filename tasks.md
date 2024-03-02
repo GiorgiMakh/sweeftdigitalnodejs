@@ -1,4 +1,12 @@
-# Sweeft Digital Internship tasks Node.js 2024
+# Sweeft Digital Internship tasks 1 Node.js 2024
+
+1. How to create constant variable?
+
+[x] const
+
+[] let
+
+[] constant
 
 2. Which of the following statements are true?
 
