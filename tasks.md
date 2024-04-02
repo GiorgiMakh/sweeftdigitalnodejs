@@ -4,37 +4,37 @@
 
 - [x] const
 
-- [] let
+- [ ] let
 
-- [] constant
+- [ ] constant
 
 2. Which of the following statements are true?
 
 - [x] Node.js is server-side technology
 
-- [] Node.js is client-side technology
+- [ ] Node.js is client-side technology
 
-- [] None of them
+- [ ] None of them
 
 3. What is npm?
 
 - [x] node package manager
 
-- [] node project manifest
+- [ ] node project manifest
 
-- [] node project module
+- [ ] node project module
 
-- [] node package manifest
+- [ ] node package manifest
 
 4. What's the output?
 > function getUserAge(...args) { console.log(typeof args); }
 > getUserAge(33);
 
-- [] number
+- [ ] number
 
 - [x] object
 
-- [] array
+- [ ] array
 
 5. What's the output?
 > function sayHi() {
@@ -45,9 +45,9 @@
 
 - [x] number
 
-- [] object
+- [ ] object
 
-- [] function
+- [ ] function
 
 6. What's the output?
 > const set = new Set([1, 1, 2, 3, 4]);
@@ -55,21 +55,21 @@
 
 - [x] {1, 2, 3, 4}
 
-- [] {1, 1, 2, 3, 4)
+- [ ] {1, 1, 2, 3, 4)
 
-- [] {4, 3, 2, 1}
+- [ ] {4, 3, 2, 1}
 
-- [] {2, 3, 4, 1)
+- [ ] {2, 3, 4, 1)
 
 7. What is the output?
 > function hello(name) { return Hi there, ${name}'; }
 > console.log(hello());
 
-- [] Hi there,
+- [ ] Hi there,
 
 - [x] Hi there, undefined
 
-- [] Hi there, null
+- [ ] Hi there, null
 
 8. What will be the output of the following code?
 > let a = 5;
@@ -78,13 +78,13 @@
 > })();
 > console.log(output);
 
-- [] null
+- [ ] null
 
-- [] undefined
+- [ ] undefined
 
-- [] 5
+- [x] 5
 
-- [] NaN
+- [ ] NaN
 
 9. What will be the output of the following code?
 > let a = { foo: 5};
@@ -94,25 +94,25 @@
 > })();
 > console.log(output);
 
-- [] 5
+- [ ] 5
 
 - [x] undefined
 
-- [] NaN
+- [ ] NaN
 
-- [] null
+- [ ] null
 
 10. What will be the output of the following code?
 > let text = "Hello world!";
 > let result = text.slice(0, 5); console.log(result);
 
-- [] ello
+- [ ] ello
 
 - [x] Hello
 
-- [] world
+- [ ] world
 
-- [] Hello World
+- [ ] Hello World
 
 11. What will be the output of the following code?
 > let text1 = "my";
@@ -122,74 +122,74 @@
 
 - [x] mycar
 
-- [] car
+- [ ] car
 
-- [] my
+- [ ] my
 
-- [] carmy
+- [ ] carmy
 
 12. Which method you can use to fetch data from a server
 
 - [x] fetch()
 
-- [] server()
+- [ ] server()
 
-- [] call()
+- [ ] call()
 
-- [] get()
+- [ ] get()
 
 13. Which method you can use to reverse array?
 
-- [] arrayReverse()
+- [ ] arrayReverse()
 
 - [x] reverse()
 
-- [] getReverse()
+- [ ] getReverse()
 
-- [] jsReverse()
+- [ ] jsReverse()
 
 14. Which method you can use to create new array?
 
 - [x] .map()
 
-- [] .createNew()
+- [ ] .createNew()
 
-- [] .callNew()
+- [ ] .callNew()
 
-- [] .mapNew()
+- [ ] .mapNew()
 
 15. Which method you can use to add new item at the end of an array?
 
-- [] pull()
+- [ ] pull()
 
 - [x] .push()
 
-- [] join()
+- [ ] join()
 
-- [] .reverse()
+- [ ] .reverse()
 
 16. What will be the output of the following code? 
 > const countries = ["France", "Georgia", "Germany", "Italy"]; 
 > console.log(countries.includes ("Italy"));
 
-- [] Italy
+- [ ] Italy
 
-- [] true
+- [ ] true
 
 - [x] false
 
-- [] 3
+- [ ] 3
 
 17. What will be the output of the following code?
 > const countries ["France", "Georgia", "Germany", "Italy"]: console.log(countries.indexOf("Italy"));
 
-- [] true
+- [ ] true
 
-- [] false
+- [ ] false
 
 - [x] 3
 
-- [] Italy
+- [ ] Italy
 
 18. What will be the output of the following code?
 
@@ -198,28 +198,28 @@
 
 - [x] ["0", "1", "2", "3"]
 
-- [] 0, 1, 2, 3
+- [ ] 0, 1, 2, 3
 
-- [] ["Italy", "Germany", "Apple", "Mango"];
+- [ ] ["Italy", "Germany", "Apple", "Mango"];
 
-- [] undefined
+- [ ] undefined
 
 19. Which function is used to serialize an object into a JSON string in Javascript?
 
 - [x] ~~Stringily~~ JSON.stringify() 
 
-- [] Parse
+- [ ] Parse
 
-- [] Convert
+- [ ] Convert
 
-- [] serialize()
+- [ ] serialize()
 
 20. What keyword is used to declare an asynchronous function in Javascript?
 
 - [x] ~~Async~~ async
 
-- [] Await
+- [ ] Await
 
-- [] AyncFunction
+- [ ] AyncFunction
 
-[] Sync
+- [ ] Sync
